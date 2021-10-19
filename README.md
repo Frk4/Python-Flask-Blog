@@ -1,2 +1,2 @@
 # Python-Flask-Blog
-This is a python blog
+This is a python blog.
